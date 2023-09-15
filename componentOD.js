@@ -1,3 +1,4 @@
+var name = "hamza ouadoud";
 class MyBalise extends HTMLElement {
         constructor() {
             super();
