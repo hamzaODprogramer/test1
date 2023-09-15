@@ -1,4 +1,7 @@
 var name = "hamza ouadoud";
+function display(){
+        alert('hamza ouadoud');
+}
 class MyBalise extends HTMLElement {
         constructor() {
             super();
